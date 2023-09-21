@@ -48,6 +48,13 @@ Dive into last year's SWAG of Hacksquad with tweets! Relive the excitement, inno
 - Participate in awesome workshops such as: How to contribute code, Going over good first issues, Engineering best practices, Solving PRs together.
 - Win swag
 
+## What are the rules?
+
+- Please Respect Each Other.
+- DSA Repositories are not allowed.
+- The rules can be changed at any time.
+- Avoid Insults toward a religious figer.
+
 <p align="center">
   <a href="https://hacksquad.dev">SIGN UP TO HACKSQUAD 2023, AND JOIN A TEAM 🚀</a>
 </p>
